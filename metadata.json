@@ -1,0 +1,6 @@
+{
+  "name": "ToonCraft AI - Studio d'Animation 2D",
+  "description": "Générateur et éditeur de dessins animés 2D propulsé par l'intelligence artificielle. Créez des animations image par image à partir de prompts textuels, peaufinez chaque pose sur la timeline et exportez en GIF, WebM ou planche de sprites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
